@@ -12,5 +12,6 @@ then
 else
 	echo "error : knockd.service not found"
 	echo "Please enusre that you are downloaded knockd daemon."
+	echo "Please install knockd daemon: [apt install knockd]"
 fi
 
