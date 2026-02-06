@@ -65,6 +65,6 @@ whatever the client device you may need to install the same knockd to knock the 
 After installing ensure it properly installed it by checking it binaries
 *which knockd*
 The next steps  is to knock the server ports and then try to connect  by using the command's below
-**knockd <serve-ip> 6000 7000 8000**
-**ssh -p 64222 <user-name>@<server-ip>
+**knockd (serve-ip) 6000 7000 8000**
+**ssh -p 64222 (user-name)@(server-ip)
 ### Now successfule ssh hardening is activated by port knocking
